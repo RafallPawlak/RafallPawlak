@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Rafał, currently being on long-term fullstack developer course. Besides coding I like play on my drums, also I'm interested in new technology and self-development.
+I'm Rafał, currently being on long-term fullstack developer course. Besides coding I love play on my drums 🥁, also I'm interested in new technology and self-development.
 
 ### My apps
 
